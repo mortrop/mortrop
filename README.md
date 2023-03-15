@@ -32,6 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" width="72" alt="android logo"  />
 </div>
 
-
+<a align"center">
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mortrop)](https://github.com/anuraghazra/github-readme-stats)
 
+</a>
