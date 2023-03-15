@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🔭 I’m currently helping with [Swipest](https://www.swipest.pl)</p>
+🔭 I’m currently helping with [Swipest](https://www.swipest.pl)
 
 ###
 
