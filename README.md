@@ -1,4 +1,4 @@
-<h2 align="center">Hello there, I'm Hubert</h2>
+<h1 align="center">Hello there, I'm Hubert</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h4 align="center">Skills I possess:</h4>
+<h2 align="center">Skills I possess:</h2>
 
 ###
 
