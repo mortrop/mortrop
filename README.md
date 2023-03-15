@@ -33,5 +33,6 @@
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mortrop)](https://github.com/anuraghazra/github-readme-stats)
+<img  style="max-width: 100%;">
+
 </a>
